@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button Clicker</string>
+    <string name="button">Button</string>
+    <string name="i_am_button">I am button</string>
+</resources>
